@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51955095498", 'Richetti', true], //Richetti
-["51933348947"], 
+["51966254634", 'Richetti', true], //Richetti
+["56997506392"], 
 ["56945086055"], 
 ["56945086055"], 
 ["56945086055"],
@@ -27,7 +27,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["56945086055"]
+global.prems = ["56997506392"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -103,11 +103,11 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56945086055", 'MichiBot', 1], 
-["56945086055", 'MichiBot', 1],  
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1]]
+["56997506392", 'MichiBot', 1], 
+["56997506392", 'MichiBot', 1],  
+["56997506392", 'MichiBot', 1],
+["56997506392", 'MichiBot', 1],
+["56997506392", 'MichiBot', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MichiBot el mejor bot de whatsapp' //agrega una descripción corta
@@ -143,7 +143,7 @@ global.nnnttt3 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 8 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/56945086055' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/56997506392' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 

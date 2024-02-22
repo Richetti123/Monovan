@@ -22,10 +22,8 @@ Selecciona tu opción escribiendo lo que necesites
 EJEMPLO:
 bot de etiquetas
 bot personalizado
-chips +56
 APK de spam
-APK de Spotify premium
-APK de seguidores`])}
+APK de Spotify premium`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
@@ -33,16 +31,16 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
 if (/^bot de etiquetas|bot para grupos|precios|info del bot|informacion|informacion del bot$/i.test(m.text) ) { //sin prefijo 
     let teks = `
-${pickRandom([`Estos son los precios que tenemos por 3 grupos por 3 meses de duración:
-S/15🇵🇪
-$5000🇨🇱
-$4500🇦🇷
-$18000🇨🇴
-$80🇲🇽
-$5🇺🇸
-$35🇧🇴
-$35000🇵🇾
-$160🇺🇾`])}
+${pickRandom([`Estos son los precios que tenemos por 3 grupos permanentes:
+S/10🇵🇪
+$3000🇨🇱
+$2000🇦🇷
+$12000🇨🇴
+$60🇲🇽
+$3🇺🇸
+$25🇧🇴
+$25000🇵🇾
+$110🇺🇾`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
@@ -307,7 +305,7 @@ ${pickRandom([`🇵🇪 PERU
 TITULAR: JAIR GONZALES 
 
 YAPE
-933348947
+967699188
 
 PLIN
 955095498
@@ -397,9 +395,9 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 if (/^chile|chile🇨🇱|🇨🇱$/i.test(m.text) ) { //sin prefijo 
     let teks = `
 ${pickRandom([`🇨🇱Cta rut : 
-18.255.399-9
+20.993.589-9
 👤Nombre:
-Priscila aguila`])}
+Paula Aquino`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
@@ -408,8 +406,8 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 if (/^argentina|argentina🇦🇷|🇦🇷$/i.test(m.text) ) { //sin prefijo 
     let teks = `
 ${pickRandom([`🇦🇷Argentina
-0000003100098738089352
-Facundo pinchulef`])}
+0000003100060129363558
+Sofi Ortiz`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 

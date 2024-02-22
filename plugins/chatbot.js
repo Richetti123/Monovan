@@ -15,8 +15,6 @@ ${pickRandom([`Hola buenas, tenemos a la venta:
 🔸Bot de etiquetas para grupos 24/7
 🔸Bot de etiquetas propio personalizado
 🔸APK de spam
-🔸APK de seguidores
-🔸Números de chip chilenos +56
 🔸APK de Spotify premium
 
 Selecciona tu opción escribiendo lo que necesites

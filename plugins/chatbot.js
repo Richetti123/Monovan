@@ -382,11 +382,11 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 if (/^paypal|estados unidos🇺🇸|🇺🇸$/i.test(m.text) ) { //sin prefijo 
     let teks = `
 ${pickRandom([`🇺🇸 PAY PAL
-Edithchuyes@gmail.com
+sangucher@gmail.com
 
 
 💥 EN NOTA PONER:
-Declaro que este dinero enviado desde NOMBRE DEL CLIENTE  hacia Edith Tatiana Chuyes Silva  es totalmente legal, y declaro que el pago no es reembolsable bajo ninguna circunstancia. Soy el titular responsable de este envío de USD.`])}
+Declaro que este dinero enviado desde NOMBRE DEL CLIENTE  hacia Marcelo Jair Gonzales Ramos es totalmente legal, y declaro que el pago no es reembolsable bajo ninguna circunstancia. Soy el titular responsable de este envío de USD.`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 

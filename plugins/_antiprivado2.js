@@ -34,7 +34,7 @@ if (user.fechaActualBD !== fechaActualNum) {
             m,
             true
         );
-        m.reply("*⏳GRACIAS POR SU COMPRA HERMANO(A)⏳*\n\n*✅EN BREVES MOMENTOS SE COMUNICARA UNO DE NUESTROS VENDEDORES CONTIGO✅*");
+        m.reply("*¡Excelente elección! 🎉🛍️ En unos momentos más, ¡estarás recibiendo una atención de primera! 🔝💼*");
         user.fechaActualBD = fechaActualNum;  
         return;
     }

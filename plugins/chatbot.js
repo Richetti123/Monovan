@@ -11,19 +11,10 @@ let name = conn.getName(m.sender)
 
 if (/^menu de ventas|menú de ventas|ventas$/i.test(m.text) ) { //sin prefijo 
     let teks = `
-${pickRandom([`Hola buenas, tenemos a la venta:
-🔸Bot de etiquetas para grupos 24/7
-🔸Bot de etiquetas propio personalizado
-🔸APK de spam
-🔸APK de Spotify premium
-
-Selecciona tu opción escribiendo lo que necesites
-
-EJEMPLO:
-bot de etiquetas
-bot personalizado
-APK de spam
-APK de Spotify premium`])}
+${pickRandom([`¡Descubre nuestra increíble selección de bots! 🤖✨
+Ya sea May Bot, Monovan Bot, Chinga a tu Madre Bot o simplemente tu propio bot personalizado.
+¡También ofrecemos chat bots y hosting para tus bots! 🌐💬
+¡Haz tu elección y lleva tu experiencia al siguiente nivel! 🚀`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
